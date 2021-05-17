@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  BlockChain & AR.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: pratyushk.it18@nsut.ac.in
-- ![](https://komarev.com/ghpvc/?username=PratyushK7&color=purple)
+- ![](https://komarev.com/ghpvc/?username=PratyushK7&color=green)
