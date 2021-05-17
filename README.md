@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 ## Some more stuff 
 
-- 🌱 I’m currently learning  BlockChain & AR.
+- 🌱 I’m currently learning and working on ReactJS and NextJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: pratyushk.it18@nsut.ac.in
 - ![](https://komarev.com/ghpvc/?username=PratyushK7&color=green)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushK7&layout=compact)](https://github.com/PratyushK7/github-readme-stats)
+ <br/>
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushK7&show_icons=true&count_private=true&theme=radical)
