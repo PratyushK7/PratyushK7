@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi!👋 Myself Pratyush Kumar.
-An aspiring developer passionately making React Apps 🤗
+An aspiring developer passionately apps using ReactJS and NEXTjs 🤗
 
 * Web / React Js Dev 👨🏽‍💻 , Bachelor's of Engineering ,  IT student  from NSIT.
 
