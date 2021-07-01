@@ -29,7 +29,7 @@ An aspiring developer passionately building apps using latest technologies like 
 
 ### Languages,Libraries ,Frameworks & Tools   
 
- **C** , **C++** , **JAVASCRIPT** , **BASH**  
+ **C** , **C++** , ***JAVA**, *JAVASCRIPT** , **BASH**  
 <img height="40" src= " https://i.imgur.com/zINUxVf.png"/>  <img height="40" src= "https://i.imgur.com/Ao2P8iG.png"/>    <img height="40" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGZRleUJz53cjkl6JwAf8yBUluyGQLyGs15Q&usqp=CAU "/> <a href="https://www.gnu.org/software/bash/" target="_blank">   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
  **ReactJS**,**HTML5 & CSS3**  
